@@ -1,0 +1,1 @@
+php cli.php swoole_services reload
